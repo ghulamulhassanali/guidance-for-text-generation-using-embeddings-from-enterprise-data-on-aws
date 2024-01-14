@@ -26,7 +26,7 @@ Details of the architecture are as follows:
 
 ## Steps to setup this solution within your AWS Account
 1. Clone this git repo to your computer
-2. Navigate to the root folder: secured-appgenai-sample-cdk
+2. Navigate to the root folder
 3. This project is a Python Project. Switch to the Virtual Env using the below
 ```
 $ python3 -m venv .venv
